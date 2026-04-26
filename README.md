@@ -1,5 +1,4 @@
-# AI-Skill-Assessment-Agent
-# 🧠 SkillLens – AI Skill Assessment & Learning Agent
+#  SkillLens – AI Skill Assessment & Learning Agent
 
 An AI-powered application that evaluates a candidate’s resume against a job description, assesses real skill proficiency, identifies gaps, and generates a **personalized learning roadmap with curated resources**.
 
