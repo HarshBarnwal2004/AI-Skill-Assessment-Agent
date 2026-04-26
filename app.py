@@ -292,8 +292,6 @@ if st.session_state.result:
             st.session_state.chat_history.append(("user", user_input))
             st.session_state.chat_history.append(("ai", response))
 
-            st.session_state.chat_input = ""
-
         for role, msg in st.session_state.chat_history:
             if role == "user":
                 st.markdown(f"<div class='chat-user'>{msg}</div>", unsafe_allow_html=True)
