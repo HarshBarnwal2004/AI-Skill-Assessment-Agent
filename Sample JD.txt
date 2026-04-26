@@ -1,0 +1,21 @@
+AI/ML Engineer (Entry Level)
+
+We are looking for an AI/ML Engineer to build intelligent applications using machine learning and generative AI techniques.
+
+Responsibilities
+Develop machine learning models for real-world problems
+Work on NLP tasks and chatbot systems
+Integrate AI models with web applications
+Improve model performance and accuracy
+
+Required Skills
+Python
+Machine Learning fundamentals
+NLP / Generative AI
+SQL
+Web development
+
+Preferred Skills
+Docker
+AWS or cloud platforms
+Experience with AI/ML projects
